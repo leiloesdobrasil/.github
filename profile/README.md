@@ -1,4 +1,4 @@
-# Leilões do Brasil
+# ![Leilões do Brasil](./logodark.svg)
 
 Bem-vindo ao **Leilões do Brasil**, o maior site de leilões do Brasil! 🚀
 
