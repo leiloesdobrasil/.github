@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img src="./logodark.svg" alt="Leilões do Brasil" width="200">
+<h1 align="start">
+  <img src="./logodark.svg" alt="Leilões do Brasil" width="500">
 </h1>
 
 Bem-vindo ao **Leilões do Brasil**, o maior site de leilões do Brasil! 🚀
