@@ -13,7 +13,7 @@ Nosso objetivo é conectar pessoas e oportunidades por meio de uma plataforma co
 
 Acesse nosso site e acesse TODOS os Leilões do Brasil!
 
-🌐 **[www.leiloesdobrasil.com.br](http://www.leiloesdobrasil.com.br)**
+🌐 **[leiloesdobrasil.com.br](http://leiloesdobrasil.com.br)**
 
 ---
 
