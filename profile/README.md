@@ -1,5 +1,8 @@
 <h1 align="start">
-  <img src="./logodark.svg" alt="Leilões do Brasil" width="500">
+  <picture> 
+    <source srcset="./logowhite.svg" media="(prefers-color-scheme: dark)">
+    <img src="./logodark.svg" alt="Leilões do Brasil" width="500">
+  </picture>
 </h1>
 
 Bem-vindo ao **Leilões do Brasil**, o maior site de leilões do Brasil! 🚀
